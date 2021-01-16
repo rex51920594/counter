@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+簡單的React實現，一個小小的計數器
+
 ## Available Scripts
 
 In the project directory, you can run:
